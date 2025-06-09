@@ -4,7 +4,7 @@
 
 This project presents a responsive and interactive dashboard built with Dash, Plotly, and Dash Bootstrap Components. Designed to support real-time stock movement monitoring, it features:
 
-User-friendly, dynamic visualizations that adapt seamlessly to any device:
+-User-friendly, dynamic visualizations that adapt seamlessly to any device:
 
 -Essential KPIs (Key Performance Indicators) that are automatically and continuously updated to reflect live data.
 
