@@ -46,12 +46,16 @@ This tool is ideal for organizations looking to monitor inventory flows, optimiz
 
 ---
 
-## Screenshot 
+## Desktop Screenshot 
 
 ![shot1](https://github.com/user-attachments/assets/19af3787-7870-4b3f-8b4d-58b5caf98fd7)
 ![shot2](https://github.com/user-attachments/assets/648de25d-8dd9-4e9b-99a2-a8d9cd3823e3)
 ![shot3](https://github.com/user-attachments/assets/7b367e6d-e916-4138-bdce-661b1945f15e)
 ![shot4](https://github.com/user-attachments/assets/8fb0a218-f3b1-4a87-8347-caa20c06f87a)
+
+## Mobile Screenshot
+![phone shot1](https://github.com/user-attachments/assets/857b8095-181c-4645-8e18-bb9553ec4c80)
+![phone shot2](https://github.com/user-attachments/assets/877059d7-4c65-46e7-9e6b-a67a09e27bc7)
 
 
 
